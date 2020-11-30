@@ -6,13 +6,13 @@ This project consists of seven algorithms that I have completed or will complete
 
 I have Implemented Project 1 (sorting algorithms) :
 
-1.Mergesort
-2.Heapsort
-3.Quicksort 
-4.Quicksort using 3 Medians
-5.Insertion sort
-6.Selection sort
-7.Bubble sort
+1.Mergesort  
+2.Heapsort  
+3.Quicksort   
+4.Quicksort using 3 Medians   
+5.Insertion sort   
+6.Selection sort  
+7.Bubble sort  
 
 ### Execution:
 
