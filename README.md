@@ -1,26 +1,20 @@
 # Project
 
-## Introduction
+## Introduction:
 
 This project consists of seven algorithms that I have completed or will complete throughout the course.
 
 I have Implemented Project 1 (sorting algorithms) :
 
 1.Mergesort
-
 2.Heapsort
-
 3.Quicksort 
-
 4.Quicksort using 3 Medians
-
 5.Insertion sort
-
 6.Selection sort
-
 7.Bubble sort
 
-### Execution
+### Execution:
 
 To execute the programs we simply give the command python filename.py
 
@@ -32,7 +26,7 @@ As an output, we get the sorted array along with its length and running time of 
 
 **Output** -------> [0,1,2,3,6,9,9] sorted array
 
-#### Example
+#### Example:
 
 python mergesort.py
 
