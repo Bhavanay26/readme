@@ -22,13 +22,9 @@ Once we run the file we need to give any array of any length as input. This prog
 
 As an output, we get the sorted array along with its length and running time of the algorithm.
 
-Input [9,1,6,3,9,0,2] any array of any length
+**Input** --------> [9,1,6,3,9,0,2] any array of any length
 
-            |
-	    |	
-            |
-
-Output [0,1,2,3,6,9,9] sorted array
+**Output** -------> [0,1,2,3,6,9,9] sorted array
 
 #### Example
 
